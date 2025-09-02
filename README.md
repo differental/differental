@@ -2,10 +2,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [Rusty Moves](https://github.com/differental/Rusty_Moves/), an experimental custom protocol upon UDP for playing simple games
-- 🏆 I've recently finished projects [Enviame](https://github.com/differental/enviame/) and [ErgTools](https://github.com/differental/ErgTools/)
-- 🌱 I’m currently learning Haskell and functional programming
-- 👯 I’m looking to collaborate on interesting projects ~~where someone can take care of the frontend so I can focus on the backend~~
-- 🚣 Outside the world of tech, I am a rower and a runner
-- 📫 Reach me via `brian@brianc.tech`
-- 😄 Pronouns: he/him/his
+I am an undergraduate student passionate about systems-level programming. I have done a few internships and some personal projects mostly using C++, Rust and Python.
+
+I'm currently advancing my language-specific knowledge in C++ and Rust, while also taking an interest in Haskell and functional programming in general.
+
+I would enjoy collaborating on projects related to networking, protocol design, and other mid-level optimisation projects. Please feel free to reach out via `brian@brianc.tech` :)
+
+You can find my blog at [blog.brianc.me](https://blog.brianc.me). I enjoy writing about my projects, some details I observed about Rust and C++, and occasionally I write about my hobbies.
+
